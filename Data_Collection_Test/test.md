@@ -13,6 +13,8 @@ This indicator represents the ratio between longs and shorts given a cryptocurre
 2. Long Short Ratio Section: https://binance-docs.github.io/apidocs/futures/en/#long-short-ratio
 
 3. Endpoint: `/futures/data/globalLongShortAccountRatio`
+
+4. Browser Request Example: https://fapi.binance.com/futures/data/globalLongShortAccountRatio?symbol=BTCUSDT&period=5m
  
 
 #### 2. Output
